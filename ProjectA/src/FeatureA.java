@@ -4,7 +4,7 @@ public class FeatureA {
     }
 
     public void execute() {
-        System.out.println("Executing new Feature A...");
+        System.out.println("Executing improved Feature A...");
     }
 
     public static void main(String[] args) {
