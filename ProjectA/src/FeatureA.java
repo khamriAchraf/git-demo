@@ -1,10 +1,10 @@
 public class FeatureA {
     public FeatureA() {
-        System.out.println("FeatureA initialized.");
+        System.out.println("FeatureAA initialized.");
     }
 
     public void execute() {
-        System.out.println("Executing improved Feature A...");
+        System.out.println("Executing improved Feature AA...");
     }
 
     public static void main(String[] args) {
