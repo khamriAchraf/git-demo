@@ -5,7 +5,7 @@ public class FeatureA {
     }
 
     public void execute() {
-        System.out.println("Executing FeatureB...");
+        System.out.println("Executing new FeatureA...");
     }
 
     public static void main(String[] args) {
