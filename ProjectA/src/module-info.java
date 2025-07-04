@@ -6,5 +6,5 @@
  *
  */
 module ProjectA {
-	String test = "this is test";
+	String test = "this is creatbranch test";
 }
