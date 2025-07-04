@@ -6,4 +6,5 @@
  *
  */
 module ProjectC {
+	int b=0;
 }
