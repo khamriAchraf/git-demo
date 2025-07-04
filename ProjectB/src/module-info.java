@@ -6,4 +6,5 @@
  *
  */
 module ProjectB {
+	int a = 0;
 }
