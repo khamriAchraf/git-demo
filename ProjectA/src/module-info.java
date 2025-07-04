@@ -6,5 +6,5 @@
  *
  */
 module ProjectA {
-	static int a = 0;
+	String test = "this is test";
 }
